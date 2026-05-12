@@ -56,11 +56,11 @@ Mode     : Late-night experiments engaged
 
 ![Connect](https://img.shields.io/badge/━━━━━━━━━━%20CONNECT%20━━━━━━━━━━-0d1117?style=for-the-badge)
 
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrafrix50@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jdn404)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yournumber)
-[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourusername)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mrafrix)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbCqF4wDDmFd1whyGY3h)
+[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jadenafrix4)
 
 </div>
 
@@ -139,9 +139,9 @@ Mode     : Late-night experiments engaged
 
 ![Social](https://img.shields.io/badge/━━━━━━━━━━%20SOCIAL%20REACH%20━━━━━━━━━━-0d1117?style=for-the-badge&logo=rss&logoColor=00ff88)
 
-[![Telegram](https://img.shields.io/badge/TELEGRAM_MEMBERS-RESOURCE_NOT_FOUND-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/yourchannel)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP_CHANNEL-FOLLOW-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/yourlink)
-[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourusername)
+[![Telegram](https://img.shields.io/badge/TELEGRAM_MEMBERS-RESOURCE_NOT_FOUND-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/mr_afrix)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP_CHANNEL-FOLLOW-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbCqF4wDDmFd1whyGY3h)
+[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jadenafrix4)
 
 </div>
 
