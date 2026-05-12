@@ -74,18 +74,18 @@ Mode     : Late-night experiments engaged
 <tr>
 <td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdn404&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&border_color=00ff8840&include_all_commits=true&count_private=true&custom_title=JADEN's+STATS)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jdn404&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&border_color=00ff8840&include_all_commits=true&count_private=true&custom_title=JADEN's+STATS)](https://github.com/jdn404)
 
 </td>
 <td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdn404&layout=donut&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_color=00ff8840&langs_count=8&custom_title=LANGUAGE+SPLIT)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jdn404&layout=donut&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_color=00ff8840&langs_count=8&custom_title=LANGUAGE+SPLIT)](https://github.com/jdn404)
 
 </td>
 </tr>
 </table>
 
-![Streak](https://streak-stats.demolab.com?user=jdn404&theme=dark&background=0d1117&border=00ff8840&stroke=00ff88&ring=00ff88&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff88&sideLabels=00ff88&dates=888888)
+[![Streak](https://streak-stats.demolab.com?user=jdn404&theme=dark&background=0d1117&border=00ff8840&stroke=00ff88&ring=00ff88&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff88&sideLabels=00ff88&dates=888888)](https://github.com/jdn404)
 
 </div>
 
