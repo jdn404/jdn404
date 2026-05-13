@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/rllhaa.jpg" width="720" alt="banner"/>
+<img src="https://files.catbox.moe/qtpmjj.jpg" width="720" alt="banner"/>
 
 ```
 git commit -m "trying to fix life"
